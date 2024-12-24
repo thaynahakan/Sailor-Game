@@ -52,4 +52,4 @@ Fechar Janela: Encerra o jogo.
 - Não teria sido a mesma coisa sem você! -
 Dito isto, bom jogo e fique a vontade se quiser colaborar !
 
-[Slides da apresentação] (https://www.canva.com/design/DAGJtS209dY/OUYF-A50oT92S-NKqhT9wg/edit?utm_content=DAGJtS209dY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Slides da apresentação](https://www.canva.com/design/DAGJtS209dY/OUYF-A50oT92S-NKqhT9wg/edit?utm_content=DAGJtS209dY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
