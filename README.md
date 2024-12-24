@@ -21,24 +21,6 @@ Python: Linguagem principal para o desenvolvimento.
 
 Pygame: Biblioteca para criação de jogos.
 
-📂 Estrutura do Projeto
-
-SailorMoonGame/
-├── imgs/                     # Imagens do jogo
-│   ├── pipe.png
-│   ├── base.png
-│   ├── bg.png
-│   ├── sailormoon1.png
-│   ├── sailormoon2.png
-│   └── sailormoon3.png
-├── fonts/                    # Fontes utilizadas no jogo
-│   └── Sailor-Stitch.ttf
-├── musica/                   # Arquivos de música
-│   └── musicatema.mp3
-├── main.py                   # Código principal do jogo
-└── README.md                 # Documentação do projeto
-
-
 🚀 Como Executar o Jogo
 1 - Clone o repositório: git clone https://github.com/usuario/SailorMoonGame.git
 2 - Instale as dependências: pip install pygame
@@ -50,6 +32,8 @@ Fechar Janela: Encerra o jogo.
 
 - Atenção especial ao meu querido amigo de curso Werlisson que me ajudou testando o jogo e se fez um colaborador do meu projeto,
 - Não teria sido a mesma coisa sem você! -
+
+  
 Dito isto, bom jogo e fique a vontade se quiser colaborar !
 
 [Slides da apresentação](https://www.canva.com/design/DAGJtS209dY/OUYF-A50oT92S-NKqhT9wg/edit?utm_content=DAGJtS209dY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
